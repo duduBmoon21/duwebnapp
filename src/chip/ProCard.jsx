@@ -26,13 +26,15 @@ const ProjectPage = () => {
     },
     // {
     //   id:2,
-    //   img:img2,
+    //   img:img2, href:mailto:adugnatefera12@gmail.com
+    
     //   title: "Employee Management System",
     //   description: "This is 5the card description section. You can add more details about the product here",
     // },
     {
       id:3,
       img:img3,
+    link:"email me",
       title: "Project Management system",
       description: "This Project is designed to simplify project management processes, improve collaboration, and enhance project delivery within organizations. By utilizing its features, users can effectively plan, track, and manage projects, leading to increased productivity and successful project outcomes.",
   
@@ -41,6 +43,7 @@ const ProjectPage = () => {
       id:4,
       img:img4,
       title: "Hosipital",
+          link:"email me",
       description: "This project helps you to keep track of medical reports. Also, it displays all the available employees and patients. In addition, it allows adding up inventories, and pharmacy records too. Evidently, this project contains an admin panel with an employee/doctor panel.",
     
      
@@ -49,6 +52,7 @@ const ProjectPage = () => {
     {
       id:5,
       img:img5,
+          link:"email me",
       title: "Lost And Found",
       description: "This project help you to find any lost items or object in easily. in an organization or community. It simplifies the process of reporting, searching, matching, claiming, and returning lost items.",
     
