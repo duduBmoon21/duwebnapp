@@ -10,7 +10,7 @@ import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import resumePDF from "../../assets/Resume.pdf";
 import duWeb from "../../assets/about.png";
-import resumePDF from "../../assets/Adugna-Tefera- CV.pdf";
+
 
 const Hero = () => {
   return (
