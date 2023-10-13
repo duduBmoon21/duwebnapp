@@ -55,7 +55,7 @@ const Hero = () => {
               <span> Hire Me</span>
             </a>
             <a
-               href={resumePDF}
+               href="https://github.com/duduBmoon21/duwebnapp/blob/main/src/assets/Adugna-Tefera-%20CV.pdf"
               className="flex items-center gap-2 border- text-[1rem] bg-white border-black px-7 py-2 sm:px-6 rounded-lg font-bold  hover:text-yellow-500"
               download
             >
