@@ -57,7 +57,6 @@ const Hero = () => {
             <a
                href="https://github.com/duduBmoon21/duwebnapp/blob/main/src/assets/Adugna-Tefera-%20CV.pdf"
               className="flex items-center gap-2 border- text-[1rem] bg-white border-black px-7 py-2 sm:px-6 rounded-lg font-bold  hover:text-yellow-500"
-              download
             >
               <div className="flex items-center gap-1">
                 Resume <FiDownload />
@@ -77,7 +76,7 @@ const Hero = () => {
                 </a>
               </li>
               <li>
-                <a href="linkedin. com/in/adugna-tefera21">
+                <a href="linkedin.com/in/adugna-tefera21">
                   {" "}
                   <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
                 </a>
