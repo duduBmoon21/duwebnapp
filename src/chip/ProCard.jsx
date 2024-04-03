@@ -35,7 +35,7 @@ const ProjectPage = () => {
       id:3,
       img:img3,
       title: "Project Management system",
-       link:"https://github.com/duduBmoon21/project-management-system/blob/main/Demo%20-%20du_web.mp4",
+       link:"https://youtu.be/_ZjL8TQI3Ns",
       description: "This Project is designed to simplify project management processes, improve collaboration, and enhance project delivery within organizations. By utilizing its features, users can effectively plan, track, and manage projects, leading to increased productivity and successful project outcomes.",
   
     },
@@ -52,7 +52,7 @@ const ProjectPage = () => {
     {
       id:5,
       img:img5,
-          link:"email me",
+      link:"email me",
       title: "Lost And Found",
       description: "This project help you to find any lost items or object in easily. in an organization or community. It simplifies the process of reporting, searching, matching, claiming, and returning lost items.",
     
