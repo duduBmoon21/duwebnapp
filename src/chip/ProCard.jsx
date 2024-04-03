@@ -34,17 +34,16 @@ const ProjectPage = () => {
     {
       id:3,
       img:img3,
-    link:"https://github.com/duduBmoon21/project-management-system/blob/main/Demo%20-%20du_web.mp4",
       title: "Project Management system",
+       link:"https://github.com/duduBmoon21/project-management-system/blob/main/Demo%20-%20du_web.mp4",
       description: "This Project is designed to simplify project management processes, improve collaboration, and enhance project delivery within organizations. By utilizing its features, users can effectively plan, track, and manage projects, leading to increased productivity and successful project outcomes.",
   
     },
     {
       id:4,
       img:img4,
-       link:"http://localhost/Hospital-PHP/index.php",
       title: "Hosipital",
-          link:"email me",
+      link:"http://localhost/Hospital-PHP/index.php",
       description: "This project helps you to keep track of medical reports. Also, it displays all the available employees and patients. In addition, it allows adding up inventories, and pharmacy records too. Evidently, this project contains an admin panel with an employee/doctor panel.",
     
      
