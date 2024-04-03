@@ -34,7 +34,7 @@ const ProjectPage = () => {
     {
       id:3,
       img:img3,
-    link:"email me",
+    link:"http://localhost/Hospital-PHP/index.php",
       title: "Project Management system",
       description: "This Project is designed to simplify project management processes, improve collaboration, and enhance project delivery within organizations. By utilizing its features, users can effectively plan, track, and manage projects, leading to increased productivity and successful project outcomes.",
   
